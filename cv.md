@@ -37,15 +37,15 @@ Sept 2022 – Present
 
 * JavaScript. Architecture of Front-end Applications html academy (interactive online courses)
 
-Dec 2022 – Feb 2023
+	Dec 2022 – Feb 2023
 
-Certificate [htmlacademy.ru/certificates/intensive/381/1522579.pdf](https://assets.htmlacademy.ru/certificates/intensive/381/1522579.pdf)
+	Certificate [htmlacademy.ru/certificates/intensive/381/1522579.pdf](https://assets.htmlacademy.ru/certificates/intensive/381/1522579.pdf)
 
 * Front-end Developer Profession html academy (interactive online courses)
 
-Sept 2021 – Oct 2022
+	Sept 2021 – Oct 2022
 
-Certificate [htmlacademy.ru/certificates/profession/31/1522579.pdf](https://assets.htmlacademy.ru/certificates/profession/31/1522579.pdf)
+	Certificate [htmlacademy.ru/certificates/profession/31/1522579.pdf](https://assets.htmlacademy.ru/certificates/profession/31/1522579.pdf)
 
 ## Skills
 
